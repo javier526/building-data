@@ -9,7 +9,7 @@
     "start": "HOST=0.0.0.0 PORT=3000 nuxt start"
   },
   "keywords": [],
-  "author": "Tim Ermilov <yamalight@gmail.com> (http://codezen.net)",
+  "author": "javier segovia",
   "license": "MIT",
   "dependencies": {
     "d3": "3",
