@@ -14,7 +14,7 @@
     "svc:restart": "yarn rabbit:clean && yarn mongo:clean && yarn rabbit:start && yarn mongo:start"
   },
   "keywords": [],
-  "author": "Tim Ermilov <yamalight@gmail.com> (http://codezen.net)",
+  "author": "javier segovia",
   "license": "MIT",
   "dependencies": {
     "microwork": "^0.12.1",
