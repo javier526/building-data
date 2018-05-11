@@ -12,7 +12,7 @@
     "corenlp:clean": "docker stop ds-corenlp && docker rm ds-corenlp"
   },
   "keywords": [],
-  "author": "Tim Ermilov <yamalight@gmail.com> (http://codezen.net)",
+  "author": "javier segovia",
   "license": "ISC",
   "dependencies": {
     "microcore": "^0.1.0",
