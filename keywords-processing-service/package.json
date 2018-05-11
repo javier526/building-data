@@ -10,7 +10,7 @@
     "rabbit:clean": "docker stop ds-rabbit && docker rm ds-rabbit"
   },
   "keywords": [],
-  "author": "Tim Ermilov <yamalight@gmail.com> (http://codezen.net)",
+  "author": "javier segovia",
   "license": "ISC",
   "dependencies": {
     "microcore": "^0.1.0",
