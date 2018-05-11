@@ -12,7 +12,7 @@
     "fox:clean": "docker stop ds-fox && docker rm ds-fox"
   },
   "keywords": [],
-  "author": "Tim Ermilov <yamalight@gmail.com> (http://codezen.net)",
+  "author": "javier segovia",
   "license": "ISC",
   "dependencies": {
     "jsonld": "^0.4.12",
