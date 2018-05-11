@@ -1,0 +1,21 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "Data Science UI project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "PORT=8080 nuxt",
+    "build": "nuxt build",
+    "start": "HOST=0.0.0.0 PORT=3000 nuxt start"
+  },
+  "keywords": [],
+  "author": "Tim Ermilov <yamalight@gmail.com> (http://codezen.net)",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "3",
+    "d3-cloud": "^1.2.4",
+    "isomorphic-fetch": "^2.2.1",
+    "nuxt": "^1.0.0-rc11",
+    "vue-async-computed": "^3.3.1"
+  }
+}
