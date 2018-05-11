@@ -9,8 +9,7 @@
     "rabbit:clean": "docker stop ds-rabbit && docker rm ds-rabbit"
   },
   "main": "index.js",
-  "repository": "git@github.com:BuildingXwithJS/building-data-science-with-js.git",
-  "author": "Tim Ermilov <yamalight@gmail.com>",
+  "author": "javier segovia,
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
